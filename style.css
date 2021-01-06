@@ -115,12 +115,34 @@ section{
     transform: translate(-55%,-80%);
 
 }
-footer{
-    text-align: center;
-    font-size: 12px;
+#junior{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,white,cyan);
+    border-image-slice: 1;
 }
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,white,cyan);
+    border-image-slice: 1;
+}
+
 .list{
     background-image: url("images/colorful-abstract-background-water-color-splash-paper-white-42943193.jpg");
     background-position: center;
    
+}
+#stay img{
+    
+    height: 70px;
+    width: 70px;
+   
+  
+    
+}
+#stay{
+    height: 10px;
+    text-align: center;
+}
+footer{
+    text-align: center;
 }
