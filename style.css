@@ -1,0 +1,81 @@
+body
+    {
+        margin: 0%;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }`          
+h1{
+    font-size: 150PX;
+}
+.name-highlight{
+    color: chocolate;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.top-banner{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg  indianred);
+    background-color: indianred;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: floralwhite;
+    font-weight: 700;
+
+}.another-story{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.single-experience{
+    box-shadow: 10px 10px 40px whitesmoke;
+    border-radius: 5px;
+    height: 80%;
+}
+.experience-area{
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    
+}
+#junior{
+}
+#full-stack{
+  
+
+}
+
+#hard-rock{
+
+}
+.half{
+    width: 20%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.work-inquiry{
+    text-align: center;
+    background-color: blue;
+}
+footer{
+    text-align: center;
+    font-size: 12px;
+}
+.list{
+    background-image: url("images/colorful-abstract-background-water-color-splash-paper-white-42943193.jpg");
+    background-position: center;
+   
+}
