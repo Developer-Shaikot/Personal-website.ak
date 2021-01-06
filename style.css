@@ -16,7 +16,7 @@ h1{
     padding-left: 2%;
 }
 .half-width img{
-    width: 100%;
+    width: 60%;
 }
 .top-banner{
     background-image: url("images/top-banner.png");
@@ -40,35 +40,80 @@ section{
     background-position: right;
 }
 .single-experience{
-    box-shadow: 10px 10px 40px whitesmoke;
+    box-shadow: 10px 10px 40px grey;
     border-radius: 5px;
     height: 80%;
 }
 .experience-area{
-    background-image: url("images/exp-bg.png");
-    background-repeat: no-repeat;
-    background-position: left;
+    text-align: center;
     
 }
-#junior{
-}
-#full-stack{
-  
 
-}
-
-#hard-rock{
-
+.img{
+    width: 90%;
 }
 .half{
-    width: 20%;
+    width:25%;
     float: left;
     margin-left: 5%;
     padding-left: 2%;
 }
-.work-inquiry{
+.work-inquir{
     text-align: center;
-    background-color: blue;
+    font-size: larger;
+    margin:10% ;
+}
+.project{
+    text-align: center;
+}
+#contact{
+    height: 1%;
+    text-align: center;
+}
+#chat{
+    text-decoration:none;
+    background-image: linear-gradient(45deg  indianred);
+    background-color: indianred;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: floralwhite;
+    font-weight: 700;
+    float:inline-end;
+    
+   
+    
+}
+.con-area{
+    margin: 0;
+    padding: 0;
+}
+.continer{
+    width: 800px;
+    height: 200px;
+    position: relative;
+    margin: 200px auto;
+}
+.continer img{
+    width: 800px;
+    height: 200px;
+}
+.inquiry-sec{
+    color: white;
+    font-size: 30px;
+    position:absolute;
+    top: 45%;
+    left: 10%;
+    transform: translate(45%,-20%);
+
+}
+.bot-text{
+    color: #0a0a0a;
+    font-size: 20px;
+    position: absolute;
+    top: 59%;
+    left: 80%;
+    transform: translate(-55%,-80%);
+
 }
 footer{
     text-align: center;
