@@ -10,7 +10,7 @@ h1{
     color: chocolate;
 }
 .half-width{
-    width: 40%;
+    width: 41.5%;
     float: left;
     margin-left: 5%;
     padding-left: 2%;
@@ -79,9 +79,6 @@ section{
     color: floralwhite;
     font-weight: 700;
     float:inline-end;
-    
-   
-    
 }
 .con-area{
     margin: 0;
@@ -119,13 +116,18 @@ section{
     border-left: 7px solid;
     border-image: linear-gradient(180deg,white,cyan);
     border-image-slice: 1;
+    font-size: 20%;
 }
 #full-stack{
     border-left: 7px solid;
     border-image: linear-gradient(180deg,white,cyan);
     border-image-slice: 1;
 }
-
+#hard-rock{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,white,cyan);
+    border-image-slice: 1;
+}
 .list{
     background-image: url("images/colorful-abstract-background-water-color-splash-paper-white-42943193.jpg");
     background-position: center;
@@ -142,6 +144,10 @@ section{
 #stay{
     height: 10px;
     text-align: center;
+    font-size: x-large;
+    margin: auto;
+    position: center;
+
 }
 footer{
     text-align: center;
